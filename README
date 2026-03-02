@@ -1,0 +1,94 @@
+🌤️ Weather Vision
+
+A modern, responsive Weather Forecast Web Application that displays real-time weather information including temperature, humidity, and wind speed for any searched city.
+
+📸 Preview
+
+Clean gradient UI with modern weather card design.
+
+✨ Features
+
+🔍 Search weather by city name
+
+🌡️ Displays current temperature
+
+🏙️ Shows city name dynamically
+
+💧 Humidity information
+
+🌬️ Wind speed details
+
+🎨 Modern gradient card design
+
+📱 Fully responsive layout
+
+⚡ Smooth UI experience
+
+🛠️ Built With
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Weather API (Optional if connected)
+
+📂 Project Structure
+Weather-Vision/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+🚀 How to Run Locally
+
+Clone the repository:
+
+git clone https://github.com/your-username/weather-vision.git
+
+Open the project folder.
+
+Open index.html in your browser.
+
+🌍 How It Works
+
+User enters a city name.
+
+JavaScript fetches weather data from API.
+
+Weather details update dynamically:
+
+Temperature
+
+Humidity
+
+Wind Speed
+
+City Name
+
+🎨 UI Highlights
+
+Gradient purple background
+
+Rounded weather card
+
+Minimalist search bar
+
+Clean icon placement
+
+Centered content layout
+
+Balanced spacing and typography
+
+📱 Responsive Design
+
+This website works smoothly on:
+
+Mobile devices 📱
+
+Tablets 📲
+
+Laptops 💻
+
+Desktop screens 🖥️
